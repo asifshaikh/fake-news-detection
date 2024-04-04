@@ -11,3 +11,18 @@ To Download this project run this command in terminal
 ```
 
 Or Download the Zip file
+
+## Run 
+
+This project requires preinstallation of python libraries, make sure to download and import beforehand.
+
+- Flask
+- Pandas
+- Scikit
+- NLTK
+- Numpy
+
+After installing you can finally run the code in terminal by following command
+
+```bash
+  python run app.py
